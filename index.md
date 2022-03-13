@@ -4,7 +4,7 @@ I have created this meme to portray my raw feelings towards the course Computer 
 I haved adapted the original four frame meme format to easily display my creation.
 
 R code:
-```{r}
+```r
 library(magick)
 happy_image <- image_read("https://i.imgur.com/XiActUT.jpeg") %>%
   image_scale(300) %>%
