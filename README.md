@@ -1,8 +1,8 @@
 # stats220
-## Assignment 1
+## Hi, welcome! 🤠
 
-This is my stats220 repository.
-### [Website](https://dstko.github.io/stats220/)
+### This is my **stats220** repository for my assignments.
+This is my [test website](https://dstko.github.io/stats220/)
 
 1. **ordered**
 * *unordered*
