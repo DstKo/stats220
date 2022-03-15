@@ -13,9 +13,9 @@
 3. Math is confusing
 4. I like dogs 🐕 
 
+![](my_meme.png)
 
-
-I haved adapted the original four frame meme format to easily display my creation.
+*I haved adapted the original four frame meme format to easily display my creation.*
 
 **R** code I used to make my meme:
 ```r
