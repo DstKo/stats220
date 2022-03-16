@@ -17,7 +17,7 @@
 
 *I haved adapted the original four frame meme format to easily display my creation.*
 
-**R** code I used to make my meme:
+[R](https://www.r-project.org) code I used to make my meme:
 ```r
 library(magick)
 
