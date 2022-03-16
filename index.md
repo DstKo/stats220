@@ -4,7 +4,7 @@
 ![](https://media2.giphy.com/media/LIzcoQmSd8xd1adCLy/200.gif)
 
 ## About Me
-* I am a data science student studying at the *University of Auckland*
+* I am a data science student studying at the ***University of Auckland***
 * I like orangutans 🦧 
 
 ## Reasons Behind My Meme
